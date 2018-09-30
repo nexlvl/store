@@ -1,6 +1,6 @@
 
 -=Prices on server items=-
-Barbarian is $5 ($2 on sale)
+<p> Barbarian is $5 ($2 on sale) <p/>
 Archer is $10 ($5 on sale)
 King is $20 ($10 on sale)
 Build-A-Tag is $2 ($1 on sale)
