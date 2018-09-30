@@ -1,4 +1,4 @@
- # NEXLVL STORE
+
 -=Prices on server items=-
 Barbarian is $5 ($2 on sale)
 Archer is $10 ($5 on sale)
